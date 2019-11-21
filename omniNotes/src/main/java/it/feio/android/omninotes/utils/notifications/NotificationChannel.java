@@ -20,11 +20,13 @@ package it.feio.android.omninotes.utils.notifications;
 public class NotificationChannel {
 
   int importance;
+  String id;
   String name;
   String description;
 
-  NotificationChannel (int importance, String name, String description) {
+  NotificationChannel (int importance, String id, String name, String description) {
     this.importance = importance;
+    this.id = id;
     this.name = name;
     this.description = description;
   }
