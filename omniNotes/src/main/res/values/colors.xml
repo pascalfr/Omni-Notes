@@ -20,6 +20,7 @@
     <!-- Material -->
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryTransparent">#4D303F9F</color>
     <color name="colorAccent">#F44336</color>
     <color name="colorAccentPressed">#D32F2F</color>
 

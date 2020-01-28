@@ -20,7 +20,7 @@
     android:id="@+id/toolbar_widget"
     android:layout_width="match_parent"
     android:layout_height="@dimen/widget_height"
-    android:background="@color/colorPrimary"
+    android:background="@color/colorPrimaryTransparent"
     android:elevation="4dp">
 
     <ImageView
@@ -31,7 +31,7 @@
         android:background="@drawable/icon_selector"
         android:gravity="center"
         android:padding="10dp"
-        android:src="@drawable/ic_file_document_white_48dp" />
+        android:src="@drawable/logo_notification_lollipop" />
 
     <ImageView
         android:id="@+id/add"
